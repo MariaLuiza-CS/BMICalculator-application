@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="text_weight">Digite o seu peso(kg):</string>
+    <string name="text_height">Digite a sua altura(m):</string>
+    <string name="text_exemple_weight">Ex: 72.00</string>
+    <string name="text_exemple_height">Ex: 1.74</string>
+    <string name="text_result">Fonte: Centro Brasileiro de Informação sobre Medicamentos (CEBRIM). Obesidade. (Folder).</string>
+    <string name="text_button_calculate">Calcular</string>
+</resources>
