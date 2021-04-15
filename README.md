@@ -12,20 +12,17 @@ aplicativo calcula o total de dinheiro que será gasto durante o percurso.
 
 # Telas
 
-## Inicio
-
-><img alt="imagem da tela inicial" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photoicon01.png" width="250" height="100%"></img>       
-><img alt="imagem da tela com dados" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photo01.png" width="250" ></img>
-><img alt="imagem da tela inicial" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photoabaixo.png" width="250" ></img>             
-><img alt="imagem da tela com dados" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photonormal.png" width="250"></img>           
-><img alt="imagem da tela inicial" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photosobre.png" width="250"></img>             
-><img alt="imagem da tela com dados" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photoobesidade.png" width="250"></img>     
-><img alt="imagem da tela inicial" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photonull.png" width="250" ></img>             
-><img alt="imagem da tela inicial" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photonulo.png" width="250" ></img>
-
-  <body>
+ <body>
+<img alt="imagem da tela inicial" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photoicon01.png" width="250" height="100%"></img>       
+<img alt="imagem da tela com dados" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photo01.png" width="250" ></img>
       <h1> 10% da tela </h1>
-  <h1> 20% da tela </h1>
-      <h1> 30% da tela </h1>
-  </body>
+<img alt="imagem da tela inicial" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photoabaixo.png" width="250" ></img>             
+<img alt="imagem da tela com dados" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photonormal.png" width="250"></img>           
+<img alt="imagem da tela inicial" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photosobre.png" width="250"></img>             
+<img alt="imagem da tela com dados" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photoobesidade.png" width="250"></img>  
+      <h1> 10% da tela </h1>
+<img alt="imagem da tela inicial" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photonull.png" width="250" ></img>             
+<img alt="imagem da tela inicial" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photonulo.png" width="250" ></img>
+</body>
+
 
