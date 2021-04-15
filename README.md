@@ -14,7 +14,7 @@ aplicativo calcula o total de dinheiro que será gasto durante o percurso.
 
 ## Inicio
 
-><img alt="imagem da tela inicial" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photoicon01.png" width="250" height="100% align="left"></img>       
+><img alt="imagem da tela inicial" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photoicon01.png" width="250" height="100%" align="left"></img>       
 ><img alt="imagem da tela com dados" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photo01.png" width="250" align="left"></img>
 ><img alt="imagem da tela inicial" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photoabaixo.png" width="250" align="left"></img>             
 ><img alt="imagem da tela com dados" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photonormal.png" width="250" align="left"></img>           
