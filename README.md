@@ -23,8 +23,6 @@ aplicativo calcula o total de dinheiro que será gasto durante o percurso.
 ><img alt="imagem da tela inicial" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photonull.png" width="250" ></img>             
 ><img alt="imagem da tela inicial" src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photonulo.png" width="250" ></img>
 
-# dfdsfs
-
   <body>
       <h1> 10% da tela </h1>
   <h1> 20% da tela </h1>
