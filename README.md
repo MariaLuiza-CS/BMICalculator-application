@@ -22,6 +22,7 @@ O IMC é a relação entre peso e altura e o cálculo é feito de acordo com a f
         <img src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photo01.png" width="20%"
             title="aplicativo sem dados" alt="aplicativo sem dados" />
     </p>
+        <br>
     <h4> Exemplos </h4>
     <p align="left">
         <img alt="Exemplo de IMC abaixo do peso"
@@ -37,6 +38,7 @@ O IMC é a relação entre peso e altura e o cálculo é feito de acordo com a f
             src="https://github.com/MariaLuiza-CS/BMICalculator-application/blob/master/photoobesidade.png" width="20%"
             title="Exemplo de IMC obeso" />
     </p>
+        <br>
     <h4> Erros </h4>
     <p align="left">
         <img alt="tratamento de erro com valores vazios"
